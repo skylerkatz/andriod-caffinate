@@ -11,8 +11,8 @@ android {
         applicationId = "com.skyler.caffeinate"
         minSdk = 33
         targetSdk = 35
-        versionCode = 3
-        versionName = "1.2"
+        versionCode = 4
+        versionName = "1.3"
 
         buildConfigField("String", "GITHUB_REPO", "\"skylerkatz/andriod-caffinate\"")
     }
