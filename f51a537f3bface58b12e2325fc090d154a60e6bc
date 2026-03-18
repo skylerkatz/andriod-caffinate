@@ -1,0 +1,26 @@
+app/build.gradle.kts
+  c994d55137a1cfa8 14-15
+app/src/main/res/values/themes.xml
+  c994d55137a1cfa8 6-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.15",
+  "base_commit_sha": "f51a537f3bface58b12e2325fc090d154a60e6bc",
+  "prompts": {
+    "c994d55137a1cfa8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2af50320-0bee-425a-84c5-f97ba640ec7a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Skyler Katz <skylerkatz@hey.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 2,
+      "accepted_lines": 5,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/e38ff60271264f87769965f77c3eff33501855d22f7371a43d2ac5edce63702e"
+    }
+  }
+}
