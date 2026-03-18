@@ -1,0 +1,24 @@
+.github/workflows/release.yml
+  c994d55137a1cfa8 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.15",
+  "base_commit_sha": "0554b61e3456b0e7f63f7a0f28f0920a4c65e69f",
+  "prompts": {
+    "c994d55137a1cfa8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2af50320-0bee-425a-84c5-f97ba640ec7a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Skyler Katz <skylerkatz@hey.com>",
+      "messages": [],
+      "total_additions": 55,
+      "total_deletions": 0,
+      "accepted_lines": 55,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/1da35434358a55b82d1a0e060881897c90eeec4de6a9fdebc257050d3bd1a56b"
+    }
+  }
+}
