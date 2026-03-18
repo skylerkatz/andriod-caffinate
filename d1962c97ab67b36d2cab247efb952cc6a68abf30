@@ -1,0 +1,26 @@
+app/build.gradle.kts
+  c994d55137a1cfa8 14-15
+.github/workflows/release.yml
+  c994d55137a1cfa8 7-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.15",
+  "base_commit_sha": "d1962c97ab67b36d2cab247efb952cc6a68abf30",
+  "prompts": {
+    "c994d55137a1cfa8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2af50320-0bee-425a-84c5-f97ba640ec7a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Skyler Katz <skylerkatz@hey.com>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 2,
+      "accepted_lines": 5,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/dec43dcde53efc737c1036090d75c4af0eb7202efba0afde414f22300e579529"
+    }
+  }
+}
