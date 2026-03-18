@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Coffee cup centered in adaptive icon safe zone (inset by 18dp on each side) -->
+    <group
+        android:translateX="30"
+        android:translateY="28">
+        <!-- Cup body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,20v32c0,4.4 3.6,8 8,8h24c4.4,0 8,-3.6 8,-8v-4h4c4.4,0 8,-3.6 8,-8v-8c0,-4.4 -3.6,-8 -8,-8h-4v-4H0zM44,32h-4v-12h4V32zM32,52H8V24h24V52z" />
+        <!-- Saucer -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M-4,56h48v4h-48z" />
+        <!-- Steam -->
+        <path
+            android:pathData="M12,0c2,2 3,6 3,8c0,2 -1,6 -3,8"
+            android:strokeWidth="2.5"
+            android:strokeColor="#FFFFFF" />
+        <path
+            android:pathData="M24,0c2,2 3,6 3,8c0,2 -1,6 -3,8"
+            android:strokeWidth="2.5"
+            android:strokeColor="#FFFFFF" />
+    </group>
+</vector>

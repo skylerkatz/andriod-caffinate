@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -version)",
+      "Bash(ls -la /Users/skylerkatz/Projects/Personal/andriod-caffinate/*.md)",
+      "Bash(./gradlew assembleDebug)"
+    ]
+  }
+}

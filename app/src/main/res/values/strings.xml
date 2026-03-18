@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caffeinate</string>
+    <string name="tile_label">Caffeinate</string>
+    <string name="tile_subtitle_on">On</string>
+    <string name="tile_subtitle_off">Off</string>
+    <string name="notification_channel_name">Caffeinate Status</string>
+    <string name="notification_title">Caffeinate is active</string>
+    <string name="notification_text">Screen will stay on. Tap tile to disable.</string>
+    <string name="permission_needed_title">Permission Needed</string>
+    <string name="permission_needed_body">Caffeinate needs the \"Modify system settings\" permission to control your screen timeout.</string>
+    <string name="grant_permission_button">Grant Permission</string>
+    <string name="ready_title">Caffeinate is Ready!</string>
+    <string name="ready_body">Add the Caffeinate tile to your Quick Settings panel:\n\n1. Swipe down from the top of your screen\n2. Swipe down again to expand the full panel\n3. Tap the pencil/edit icon\n4. Find \"Caffeinate\" and drag it into your active tiles\n\nTap the coffee cup tile anytime to keep your screen on.</string>
+    <string name="notification_permission_needed">Caffeinate also needs notification permission to show a reminder when active.</string>
+    <string name="grant_notification_button">Allow Notifications</string>
+
+    <string name="update_available">New version %s available!</string>
+    <string name="update_download_button">Download &amp; Install</string>
+    <string name="update_downloading">Downloading…</string>
+    <string name="update_error">Update check failed</string>
+</resources>
