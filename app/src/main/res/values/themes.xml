@@ -3,5 +3,8 @@
     <style name="Theme.Caffeinate" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="colorPrimary">@color/orange</item>
         <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
     </style>
 </resources>
