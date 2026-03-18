@@ -4,26 +4,12 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <!-- Coffee cup centered in adaptive icon safe zone (inset by 18dp on each side) -->
-    <group
-        android:translateX="30"
-        android:translateY="28">
-        <!-- Cup body -->
-        <path
-            android:fillColor="#FFFFFF"
-            android:pathData="M0,20v32c0,4.4 3.6,8 8,8h24c4.4,0 8,-3.6 8,-8v-4h4c4.4,0 8,-3.6 8,-8v-8c0,-4.4 -3.6,-8 -8,-8h-4v-4H0zM44,32h-4v-12h4V32zM32,52H8V24h24V52z" />
-        <!-- Saucer -->
-        <path
-            android:fillColor="#FFFFFF"
-            android:pathData="M-4,56h48v4h-48z" />
-        <!-- Steam -->
-        <path
-            android:pathData="M12,0c2,2 3,6 3,8c0,2 -1,6 -3,8"
-            android:strokeWidth="2.5"
-            android:strokeColor="#FFFFFF" />
-        <path
-            android:pathData="M24,0c2,2 3,6 3,8c0,2 -1,6 -3,8"
-            android:strokeWidth="2.5"
-            android:strokeColor="#FFFFFF" />
+    <group android:translateX="26" android:translateY="22" android:scaleX="2.3" android:scaleY="2.3">
+        <path android:fillColor="#FFFFFF" android:pathData="M14,1.5h1.5v5.5h-1.5z"/>
+        <path android:fillColor="#FFFFFF" android:pathData="M18.5,4h-13c-0.28,0 -0.5,0.22 -0.5,0.5v1.5h14v-1.5c0,-0.28 -0.22,-0.5 -0.5,-0.5z"/>
+        <path android:fillColor="#FFFFFF" android:pathData="M6,7l0.8,13.2c0.1,1 1,1.8 2,1.8h6.4c1,0 1.9,-0.8 2,-1.8l0.8,-13.2z"/>
+        <path android:fillColor="#22000000" android:pathData="M8.5,9.5l3,-0.8l0.8,3l-3,0.8z"/>
+        <path android:fillColor="#22000000" android:pathData="M13.5,11.5l2.8,0.5l-0.5,2.8l-2.8,-0.5z"/>
+        <path android:fillColor="#22000000" android:pathData="M10,15.5l3,0.3l-0.3,3l-3,-0.3z"/>
     </group>
 </vector>
